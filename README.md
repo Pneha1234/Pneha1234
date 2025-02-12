@@ -23,7 +23,7 @@
 ### 🚀 Senior Python Developer | Vanilla Tech  
 📍 Kathmandu, Nepal | **Jun 2024 – Present**  
 - Leading the development of scalable backend solutions.  
-- Working with **Python, AWS, Flask**, and **microservices architecture**.  
+- Working with **Python, AWS, FastApi**, and **microservices architecture**.  
 - Designing high-performance, distributed systems to handle complex data flows.  
 
 ### 💡 Senior Software Engineer | Verisk  

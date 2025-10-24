@@ -62,7 +62,7 @@
 
 - 🧠 **[Canonical Cloud-Init](https://github.com/canonical/cloud-init/pulls?q=is%3Apr+is%3Aclosed+author%3APneha1234)**  
   Contributed to Canonical’s **Cloud-Init**, an open-source cloud instance initialization tool widely used across major cloud providers.  
-  Focused on improving reliability and maintainability by submitting pull requests for bug fixes and code enhancements.
+  Focused on improving reliability and maintainability by submitting pull requests for pytest.
 
 ---
 

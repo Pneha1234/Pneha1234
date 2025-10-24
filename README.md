@@ -20,8 +20,14 @@
 
 ## 💼 Professional Experience  
 
+### 🚀 Senior Software Engineer | Global Staffing Support  
+📍 Chernivtsi, Ukraine (Remote) | **Jun 2025 – Present**  
+- Leading backend development and architecture design for scalable systems.  
+- Working on **Python-based microservices**, **cloud integrations**, and **system optimization**.  
+- Collaborating with cross-functional teams to deliver high-performance backend solutions.  
+
 ### 🚀 Senior Python Developer | Vanilla Tech  
-📍 Kathmandu, Nepal | **Jun 2024 – Present**  
+📍 Kathmandu, Nepal | **Jun 2024 – Jun 2025 (1 yr 1 mo)** 
 - Leading the development of scalable backend solutions.  
 - Working with **Python, AWS, FastApi**, and **microservices architecture**.  
 - Designing high-performance, distributed systems to handle complex data flows.  
@@ -49,6 +55,14 @@
 📍 Lalitpur, Nepal | **May 2019 – Nov 2019 (6 mos)**  
 - Developed a **news application** for a client using:  
   - **Python, Django, Django Rest Framework (DRF).**  
+
+---
+
+## 🌍 Open Source Contributions  
+
+- 🧠 **[Canonical Cloud-Init](https://github.com/canonical/cloud-init/pulls?q=is%3Apr+is%3Aclosed+author%3APneha1234)**  
+  Contributed to Canonical’s **Cloud-Init**, an open-source cloud instance initialization tool widely used across major cloud providers.  
+  Focused on improving reliability and maintainability by submitting pull requests for bug fixes and code enhancements.
 
 ---
 

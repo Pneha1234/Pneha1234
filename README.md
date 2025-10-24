@@ -66,6 +66,10 @@
 
 ---
 
+## 🏅 Holopin Badges
+[![@pneha1234's Holopin board](https://holopin.me/pneha1234)](https://holopin.io/@pneha1234)
+
+
 ## 🛠 Tech Stack & Skills  
 **Programming:** Python, Flask, Django, .NET, SQLAlchemy.  
 **Cloud & DevOps:** AWS (S3, Lambda, API Gateway, Aurora, CloudFormation), CI/CD.  

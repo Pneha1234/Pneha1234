@@ -1,7 +1,7 @@
 # **Neha – Senior Python Developer**  
 🔹 **Experienced in BackEnd Development | Python | AWS Microservices**  
 🔹 **System Design Enthusiast | Cloud & Backend Development**  
-🔹 **Currently at Vanilla Tech | Formerly at Verisk, Jeevee Health Pvt. Ltd.**  
+🔹 **Currently at Global Staffing Support | Formerly at  Vanilla Tech, Verisk, Jeevee Health Pvt. Ltd.**  
 
 ---
 

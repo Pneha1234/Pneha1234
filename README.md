@@ -21,7 +21,7 @@
 ## 💼 Professional Experience  
 
 ### 🚀 Senior Software Engineer | Global Staffing Support  
-📍 Chernivtsi, Ukraine (Remote) | **Jun 2025 – Present**  
+📍 Netherlands (Remote) | **Jun 2025 – Present**  
 - Leading backend development and architecture design for scalable systems.  
 - Working on **Python-based microservices**, **cloud integrations**, and **system optimization**.  
 - Collaborating with cross-functional teams to deliver high-performance backend solutions.  
